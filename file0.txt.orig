@@ -6,9 +6,14 @@ what is your name?
 where wre you
 
 Your address please?
-<<<<<<< HEAD
+
 added by alice
 
-=======
+
 added by bob
->>>>>>> added by bob
+added by bob
+<<<<<<< HEAD
+Shantanu line 1
+=======
+Shantanu 2
+>>>>>>> alice added
